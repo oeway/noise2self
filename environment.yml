@@ -4,9 +4,9 @@ channels:
 - defaults
 - conda-forge
 dependencies:
-- pytorch
+- pytorch=1.0
 - six
-- pillow
+- pillow=6.1
 - numpy
 - scipy
 - scikit-image
